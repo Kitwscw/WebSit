@@ -1,0 +1,58 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: black;
+}
+img {
+  width:400px;
+  border-width: 10px;
+  border-radius: 50px;
+  border-style: inset;
+  border-color: #b10808;
+  color: white;
+}
+
+h1{
+  color:#b10808; 
+  font-family:'Times New Roman', Times, serif;
+  text-decoration:underline;
+  
+}
+p{
+  color:#b10808;
+  font-family: 'times new roman','Times New Roman', Times, serif;
+  font-weight:bold;
+}
+a {
+  font-size: 30px;
+  background-color:#ffd747 ;
+  box-shadow:0 3px 0 #d0b349;padding: 5px;
+  font-family: fantasy;
+  position: relative;
+  border-radius: 5px;
+  margin-left: 100px;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.space-link {
+margin-right: 100px ;
+}
+
+.img-no-border {
+  width: 500;
+  border-color:black ;
+  border-style: solid;
+}
+
+.smaller-img {
+  height: 350px;
+  width:230px;
+  margin-bottom: 30px;
+}
+
+.dark-souls {
+  margin-right: 30px;
+}
