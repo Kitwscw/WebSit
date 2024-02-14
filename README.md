@@ -1,2 +1,2 @@
-# This repository is to hold a website I made about what I did over the holidays
+# This repository is to hold a website I made last year
 ### idk what else to say, no touch pls
